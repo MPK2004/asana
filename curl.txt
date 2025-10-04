@@ -1,0 +1,4 @@
+to be run after running flask and ngrok server
+
+
+curl -X POST https://app.asana.com/api/1.0/webhooks -H "Authorization: Bearer 2/1211435635079813/1211547104568429:b0d9bb17ceb9c0aff87b81c01503eaf1" -H "Content-Type: application/json" -d '{"data": {"resource": "1211435577565998", "target": "https://vida-flightier-unremovably.ngrok-free.dev/webhook"}}'
