@@ -1,6 +1,4 @@
-Perfect Master 👑 — here’s a clean **README.md** you can drop straight into your repo:
 
----
 
 ````markdown
 # 🔄 Asana Subtask Priority Sync
